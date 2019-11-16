@@ -49,7 +49,7 @@ Member of 11-person class in 2 year rotational public service program.
   date_start = "2015-08-01"
   date_end = "2017-07-31"
   description = """
-Led 5-member board that represented students on 130 campuses in 40 states in Institute decision-making. Co-authored white papers on higher education and infrastructure"""
+Led 5-member board that represented students on 130 campuses in 40 states in Institute decision-making. Co-authored white papers on higher education and infrastructure."""
 
 [[experience]]
   title = "Associate Product Manager Intern"
@@ -57,7 +57,7 @@ Led 5-member board that represented students on 130 campuses in 40 states in Ins
   company_url = ""
   location = "Arlington, VA"
   date_start = "2016-05-01"
-  date_end = "2019-0-31"
+  date_end = "2016-08-31"
   description = """
 Designed and created customer segments from transaction-level data in SQL for Fortune 500 companies. Modeled new multi-segment testing analytic for financial services and telecommunications client teams."""
 
