@@ -2,6 +2,8 @@
 title: "Financialization of Higher Education"
 authors:
 - admin
+- Carrie Sloan
+- Alan Smith
 date: "2016-09-15T00:00:00Z"
 doi: ""
 
