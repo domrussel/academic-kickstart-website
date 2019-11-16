@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Junior Research Scientist at the New York University, Stern School of Business. Broadly, my research interests lie in using big data to better understand market and societal outcomes, and to identify failures in terms of opportunity and equity. This includes interests in public economics, household finance, social mobility, and racial discrimination.
+I'm a Junior Research Scientist at the New York University, Stern School of Business. My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in public economics, household finance, social mobility, and fairness in machine learning. I also enjoy data visualization and have a few projects posted here.
