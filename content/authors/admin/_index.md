@@ -21,9 +21,9 @@ organizations:
 bio: Short bio
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Economics
+- Household Finance
+- Fairness in Machine Learning
 
 education:
   courses:
@@ -64,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a Junior Research Scientist at the New York University, Stern School of Business. Broadly, my research interests lie in using big data to better understand market and societal outcomes, and to identify failures in terms of opportunity and equity. This includes interests in public economics, household finance, social mobility, and racial discrimination.
