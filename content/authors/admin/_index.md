@@ -21,13 +21,13 @@ organizations:
 bio: Short bio
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Economics
+- Household Finance
+- Fairness in Machine Learning
 
 education:
   courses:
-  - course: BS in Statistics and Data Science (Double Major) Political Science (Minor)
+  - course: BS in Statistics and Data Science (Double Major); Political Science (Minor)
     institution: University of Michigan
     year: 2017
 
@@ -36,18 +36,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:domrussel@gmail.com
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dominic-russel/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/domrussel
 - icon: github
   icon_pack: fab
   link: https://github.com/domrussel
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dominic-russel/
+ - icon: envelope
+  icon_pack: fas
+  link: mailto:domrussel@gmail.com
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/domrussel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
