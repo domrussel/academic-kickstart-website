@@ -21,13 +21,13 @@ organizations:
 bio: Short bio
 
 interests:
-- Public Economics
-- Household Finance
-- Fairness in Machine Learning
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: BS in Statistics and Data Science (Double Major); Political Science (Minor)
+  - course: BS in Statistics and Data Science (Double Major), Political Science (Minor)
     institution: University of Michigan
     year: 2017
 
@@ -42,7 +42,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dominic-russel/
- - icon: envelope
+- icon: envelope
   icon_pack: fas
   link: mailto:domrussel@gmail.com
 - icon: twitter
