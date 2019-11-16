@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Junior Research Scientist"
   company = "NYU, Stern School of Business"
   company_url = ""
-  location = "New York"
+  location = "New York, NY"
   date_start = "2019-08-01"
   date_end = ""
   description = """
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   title = "Director's Financial Analyst"
   company = "Consumer Financial Protection Bureau"
   company_url = ""
-  location = "Washington D.C."
+  location = "Washington, DC"
   date_start = "2017-07-01"
   date_end = "2019-07-31"
   description = """
@@ -40,5 +40,15 @@ Member of 11-person class in 2 year rotational public service program.
 1st Rotation: Office of Small Business Lending Markets. Conducted analysis and managed projects to support the Bureau's Small Business Lending rulemaking mandated by Section 1071 of the Dodd-Frank Act. Received monetary award for developing R Shiny tool used in rulemaking.
 
 2nd Rotation: Office of Research. Conducted statistical analyses and developed visualization tools for CFPB fair lending examinations. Co-authored "data point" on small mortgage servicers. Developed code in R, Stata, and PostgreSQL for the Bureau's assessment of the 2013 RESPA mortgage servicing rule."""
+
+[[experience]]
+  title = "Associate Product Manager Intern"
+  company = "Applied Predictive Technologies (mastercard)"
+  company_url = ""
+  location = "Arlington, VA"
+  date_start = "2016-05-01"
+  date_end = "2019-08-31"
+  description = """
+Designed and created customer segments from transaction-level data in SQL for Fortune 500 companies. Modeled new multi-segment testing analytic for financial services and telecommunications client teams."""
 
 +++
