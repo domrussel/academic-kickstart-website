@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -42,12 +42,22 @@ Member of 11-person class in 2 year rotational public service program.
 2nd Rotation: Office of Research. Conducted statistical analyses and developed visualization tools for CFPB fair lending examinations. Co-authored "data point" on small mortgage servicers. Developed code in R, Stata, and PostgreSQL for the Bureau's assessment of the 2013 RESPA mortgage servicing rule."""
 
 [[experience]]
+  title = "Student Board of Advisors (chair 2016-17)"
+  company = "Roosevelt Institute"
+  company_url = ""
+  location = ""
+  date_start = "2015-08-01"
+  date_end = "2017-07-31"
+  description = """
+Led 5-member board that represented students on 130 campuses in 40 states in Institute decision-making. Co-authored white papers on higher education and infrastructure"""
+
+[[experience]]
   title = "Associate Product Manager Intern"
   company = "Applied Predictive Technologies (mastercard)"
   company_url = ""
   location = "Arlington, VA"
   date_start = "2016-05-01"
-  date_end = "2019-08-31"
+  date_end = "2019-0-31"
   description = """
 Designed and created customer segments from transaction-level data in SQL for Fortune 500 companies. Modeled new multi-segment testing analytic for financial services and telecommunications client teams."""
 
