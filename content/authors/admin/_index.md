@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Statistics and Data Science (Double Major)
+  - course: BS in Statistics and Data Science (Double Major) Political Science (Minor)
     institution: University of Michigan
     year: 2017
 
@@ -39,6 +39,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:domrussel@gmail.com
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dominic-russel/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/domrussel
