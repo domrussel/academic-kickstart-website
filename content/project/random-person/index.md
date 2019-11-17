@@ -1,6 +1,6 @@
 ---
 title: Random Person App
-summary: Shiny app that generates random income identities based on global income data; inspired by the Rawlsian notion of the veil of ignorance. <a href="https://github.com/domrussel/random_person">View GitHub Repo.</a>
+summary: Shiny app that generates random income identities based on global income data; inspired by the Rawlsian notion of the <a href="https://en.wikipedia.org/wiki/Veil_of_ignorance">veil of ignorance</a>. <a href="https://github.com/domrussel/random_person">View GitHub Repo.</a>
 date: "2019-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
