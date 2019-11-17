@@ -14,9 +14,14 @@
   weight = 20
 
 [[main]]
-  name = "Reports and Op-Eds"
+  name = "Working Papers"
   url = "#reports"
   weight = 30
+
+[[main]]
+  name = "Reports and Op-Eds"
+  url = "#reports"
+  weight = 40
 
 [[main]]
   name = "Other Projects"
