@@ -30,10 +30,16 @@ tags:
 featured: false
 
 links:
-- name: URL
+- name: Full Report
   url: https://rooseveltinstitute.org/wp-content/uploads/2016/09/Financialization-of-Higher-Education.pdf
-- name: Time Coverage
+- name: Time Magazine Coverage
   url: https://time.com/4500377/university-financial-debt-bomb-wall-street/
+- name: New York Review of Books Coverage
+  url: https://www.nybooks.com/articles/2016/10/13/how-the-financing-of-colleges-may-lead-to-disaster/
+- name: Bloomberg Coverage
+  url: https://www.bloomberg.com/news/articles/2016-10-05/harvard-borrows-big-to-cut-cost-of-crisis-era-derivative-losses
+- name: Financial Times Coverage
+  url: https://www.ft.com/content/27212742-5426-11e6-9664-e0bdc13c3bef
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
