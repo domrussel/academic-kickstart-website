@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Awards"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University of Michigan"
+  organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
