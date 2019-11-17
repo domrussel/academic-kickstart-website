@@ -1,10 +1,8 @@
 ---
-title: "Transformative Infrastructure Investment and American Competitiveness"
+title: "Say the G-Word: Gentrification in metro Detroit is real"
 authors:
-- Damon Silvers
-- Eric Harris Bernstein
 - admin
-date: "2016-11-16T00:00:00Z"
+date: "2015-09-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Roosevelt Institute"
+publication: "metromode"
 publication_short: ""
 
 abstract:
@@ -30,12 +28,8 @@ tags:
 featured: false
 
 links:
-- name: Full Report
-  url: https://rooseveltinstitute.org/wp-content/uploads/2016/11/Transformative.Infrastructure.Investment.pdf
-- name: The Atlantic Coverage
-  url: https://www.theatlantic.com/business/archive/2016/11/infrastructure-trump-congress/508490/
-- name: The Guardian Coverage
-  url: https://www.theguardian.com/commentisfree/2018/feb/15/america-public-infrastructure-white-house
+- name: Full Op-Ed
+  url: https://www.secondwavemedia.com/metromode/features/g-word-092415.aspx
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
