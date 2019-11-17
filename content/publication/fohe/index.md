@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Roosevelt Institute"
 publication_short: ""
 
 abstract:

@@ -1,8 +1,10 @@
 ---
-title: "Connectedness in Europe"
+title: ""
 authors:
+- Damon Silvers
+- Eric Harris Bernstein
 - admin
-date: "2016-09-15T00:00:00Z"
+date: "2016-11-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,10 +14,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Roosevelt Institute"
 publication_short: ""
 
 abstract:
@@ -28,16 +30,12 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Full Report
+  url: https://rooseveltinstitute.org/wp-content/uploads/2016/11/Transformative.Infrastructure.Investment.pdf
+- name: The Atlantic Coverage
+  url: https://www.theatlantic.com/business/archive/2016/11/infrastructure-trump-congress/508490/
+- name: The Guardian Coverage
+  url: https://www.theguardian.com/commentisfree/2018/feb/15/america-public-infrastructure-white-house
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
