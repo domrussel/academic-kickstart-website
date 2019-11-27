@@ -36,11 +36,13 @@ links:
   url: https://consumerfinance.gov/data-research/research-reports/data-point-servicer-size-mortgage-market/
 - name: National Mortgage News Coverage
   url: https://www.nationalmortgagenews.com/news/cfpb-report-highlights-bank-nonbank-split-in-servicer-size-tiers?feed=0000015a-6289-d4b3-ab5e-7afb5c360000
+- name: DS News Coverage
+  url: https://dsnews.com/daily-dose/11-25-2019/where-smaller-mortgage-servicers-dominate
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
