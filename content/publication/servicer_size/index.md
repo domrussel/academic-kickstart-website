@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Consumer Financial Protection Bureau Data Point Series"
+publication: "Consumer Financial Protection Bureau, Data Point Series"
 publication_short: ""
 
 abstract:
@@ -33,7 +33,7 @@ links:
 - name: Full Report
   url: https://files.consumerfinance.gov/f/documents/cfpb_2019-servicer-size-mortgage-market_report.pdf
 - name: Press Release
-  url: https://consumerfinance.gov/data-research/research-reports/data-point-servicer-size-mortgage-market/
+  url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-releases-new-report-exploring-differences-between-large-and-small-mortgage-servicers/
 - name: National Mortgage News Coverage
   url: https://www.nationalmortgagenews.com/news/cfpb-report-highlights-bank-nonbank-split-in-servicer-size-tiers?feed=0000015a-6289-d4b3-ab5e-7afb5c360000
 - name: DS News Coverage
