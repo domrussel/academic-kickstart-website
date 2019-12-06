@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: Full Report
-  url: https://files.consumerfinance.gov/f/documents/cfpb_2019-servicer-size-mortgage-market_report.pdf
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3495298
 - name: Press Release
   url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-releases-new-report-exploring-differences-between-large-and-small-mortgage-servicers/
 - name: National Mortgage News Coverage
