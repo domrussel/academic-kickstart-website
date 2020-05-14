@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Contractor, Core Data Science"
+  company = "Facebook"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
   title = "Director's Financial Analyst"
   company = "Consumer Financial Protection Bureau"
   company_url = ""
