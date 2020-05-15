@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: Full Report
+- name: Full Paper
   url: https://www.nber.org/papers/w26990.pdf
 - name: Guardian Coverage
   url: https://www.theguardian.com/world/2020/apr/14/facebook-friendships-can-help-predict-covid-19-spread-study-finds

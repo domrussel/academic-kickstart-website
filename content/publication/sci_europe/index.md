@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: Full Report
+- name: Full Paper
   url: https://osf.io/preprints/socarxiv/3wh67/
 
 # Featured image
