@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: "NBER Working Paper No. 26990"
 publication_short: ""
 
-abstract: "We use anonymized and aggregated data from Facebook to show that areas with stronger social ties to two early COVID-19 'hotspots' (Westchester County, NY, in the U.S. and Lodi province in Italy) generally have more confirmed COVID-19 cases as of March 30, 2020. These relationships hold after controlling for geographic distance to the hotspots as well as for the income and population density of the regions. These results suggest that data from online social networks may prove useful to epidemiologists and others hoping to forecast the spread of communicable diseases such as COVID-19."
+abstract: "We use aggregated data from Facebook to show that COVID-19 was more likely to spread between regions with stronger social network connections. Areas with more social ties to two early COVID-19 “hotspots” (Westchester County, NY, in the U.S. and Lodi province in Italy) generally had more confirmed COVID-19 cases as of the end of March. These relationships hold after controlling for geographic distance to the hotspots as well as for the income and population densities of the regions. As the pandemic progressed in the U.S., a county’s social proximity to recent COVID19 cases predicts future outbreaks over and above physical proximity. These results suggest data from online social networks can be useful to epidemiologists and others hoping to forecast the spread of communicable diseases such as COVID-19."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,7 +32,13 @@ featured: false
 
 links:
 - name: Full Paper
-  url: https://www.nber.org/papers/w26990.pdf
+  url: http://pages.stern.nyu.edu/~jstroebe/PDF/SCI_and_COVID.pdf
+- name: DSCC-19 Presentation Video
+  url: https://www.youtube.com/watch?v=-jLonhO89Xs&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=4&t=1s
+- name: Code
+  url: https://github.com/social-connectedness-index/example-scripts/tree/master/covid19_exploration
+- name: Slides
+  url: https://dominic-russel.netlify.app/files/SCI_and_COVID_Slides.pdf
 - name: Guardian Coverage
   url: https://www.theguardian.com/world/2020/apr/14/facebook-friendships-can-help-predict-covid-19-spread-study-finds
 - name: Daily Mail Coverage
