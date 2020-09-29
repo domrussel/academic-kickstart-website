@@ -37,6 +37,8 @@ links:
   url: http://pages.stern.nyu.edu/~jstroebe/PDF/BJRKSS_EuroSCI.pdf
 - name: Online Appendix
   url: https://arxiv.org/pdf/2007.12177.pdf
+-name: SocInfo 2020 Presentation Video
+  url: https://drive.google.com/file/d/1cPQFFAfvfXMaYFqR2_3ojMmtOSMMcrKI/view?usp=sharing
 - name: Slides
   url: https://dominic-russel.netlify.app/files/Euro_SCI_Slides.pdf
 
