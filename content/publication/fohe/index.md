@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: Full Report
-  url: https://rooseveltinstitute.org/wp-content/uploads/2016/09/Financialization-of-Higher-Education.pdf
+  url: https://dominic-russel.netlify.app/files/RI_Financialization.pdf
 - name: Time Magazine Coverage
   url: https://time.com/4500377/university-financial-debt-bomb-wall-street/
 - name: New York Review of Books Coverage

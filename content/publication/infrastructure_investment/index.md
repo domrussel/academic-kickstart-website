@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: Full Report
-  url: https://rooseveltinstitute.org/wp-content/uploads/2016/11/Transformative.Infrastructure.Investment.pdf
+  url: https://dominic-russel.netlify.app/files/RI_Transformative.pdf
 - name: The Atlantic Coverage
   url: https://www.theatlantic.com/business/archive/2016/11/infrastructure-trump-congress/508490/
 - name: The Guardian Coverage
