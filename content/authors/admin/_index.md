@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Junior Research Scientist at the New York University Stern School of Business and a contractor with the Core Data Science team at Facebook. My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in public economics, household finance, social mobility, and fairness in machine learning. I also enjoy data visualization and have a few projects posted here. [You can find my CV here](https://dominic-russel.netlify.app/files/Dominic_Russel_CV.pdf).
+I'm a Junior Research Scientist at the New York University Stern School of Business and a contractor with the Core Data Science team at Facebook. My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in public economics, household finance, social mobility, and fairness in machine learning. I also enjoy data visualization and have a few projects posted below.
