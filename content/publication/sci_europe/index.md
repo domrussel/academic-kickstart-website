@@ -39,6 +39,8 @@ links:
   url: https://arxiv.org/pdf/2007.12177.pdf
 - name: SocInfo 2020 Presentation Video
   url: https://drive.google.com/file/d/1cPQFFAfvfXMaYFqR2_3ojMmtOSMMcrKI/view?usp=sharing
+- name: Code
+  url: https://github.com/social-connectedness-index/euro_sci
 - name: Slides
   url: https://dominic-russel.netlify.app/files/Euro_SCI_Slides.pdf
 
