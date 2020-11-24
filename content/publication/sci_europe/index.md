@@ -20,7 +20,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Lecture Notes in Computer Science: Social Informatics 2020"
+publication: "***Lecture Notes in Computer Science: Social Informatics 2020***"
 publication_short: ""
 
 abstract: "We use de-identified and aggregated data from Facebook to study the structure of social networks across European regions. Social connectedness declines strongly in geographic distance and at country borders. Historical borders and unions — such as the Austro-Hungarian Empire, Czechoslovakia, and East/West Germany — shape present-day social connectedness over and above today’s political boundaries and other controls. All else equal, social connectedness is stronger between regions with residents of similar ages and education levels, as well as between regions that share a language and religion. In contrast, region-pairs with dissimilar incomes tend to be more connected, likely due to increased migration from poorer to richer regions."
@@ -34,7 +34,7 @@ featured: false
 
 links:
 - name: Full Paper
-  url: http://pages.stern.nyu.edu/~jstroebe/PDF/BJRKSS_EuroSCI.pdf
+  url: https://doi.org/10.1007/978-3-030-60975-7_1
 - name: Online Appendix
   url: https://arxiv.org/pdf/2007.12177.pdf
 - name: SocInfo 2020 Presentation Video
