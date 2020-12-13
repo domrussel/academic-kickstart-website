@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: Full Paper
-  url: http://pages.stern.nyu.edu/~jstroebe/PDF/SCI_and_COVID.pdf
+  url: https://arxiv.org/pdf/2004.03055.pdf
 - name: DSCC-19 Presentation Video
   url: https://www.youtube.com/watch?v=-jLonhO89Xs&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=4&t=1s
 - name: Code
