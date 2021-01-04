@@ -1,5 +1,5 @@
 ---
-title: "We Analyzed the Comments on the Atrocious 'Dr. Jill Biden' Op-Ed: Men and women saw something very different."
+title: "We Analyzed the Comments on the Atrocious 'Dr. Jill Biden' Op-Ed: Men and women saw something very different"
 authors:
 - Anna Gifty Opoku-Agyeman
 - admin
