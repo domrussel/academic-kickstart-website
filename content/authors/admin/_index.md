@@ -14,7 +14,7 @@ role: Junior Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: New York Univeristy, Stern School of Business
+- name: New York University, Stern School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
