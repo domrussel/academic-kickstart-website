@@ -1,5 +1,5 @@
 ---
-title: "Social Distancing During A Pandemic: The Role of Friends"
+title: "Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing During the COVID-19 Pandemic"
 authors:
 - Michael Bailey
 - Drew Johnston
@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: "*NBER* Working Paper No. 28234"
 publication_short: ""
 
-abstract: "We explore how social network exposure to COVID-19 cases shapes individuals' social distancing behavior during the early months of the ongoing pandemic. We work with de-identified data from Facebook to show that U.S. users whose friends live in areas with worse coronavirus outbreaks reduce their mobility more than otherwise similar users whose friends live in areas with smaller outbreaks. The effects are quantitatively large: a one standard deviation increase in friend-exposure to COVID-19 cases early in the pandemic results in a 1.2 percentage point increase in the probability that an individual stays home on a given day. As the pandemic progresses, changes in friend-exposure drive changes in social distancing behavior. Given the evolving nature and geography of the pandemic -- and hence friend-exposure -- these results rule out many alternative explanations for the observed relationships. We also analyze data on public posts and membership in groups advocating to 'reopen' the economy to show that our findings can be explained by friend-exposure raising awareness about the risks of the disease and inducing individuals to participate in mitigating public health behavior."
+abstract: "We show that social network exposure to COVID-19 cases shapes individuals' beliefs and behaviors concerning the coronavirus. We use de-identified data from Facebook to document that individuals with friends in areas with worse COVID-19 outbreaks reduce their mobility more than otherwise similar individuals with friends in less affected areas. The effects are quantitatively large and long-lasting: a one standard deviation increase in friend-exposure to COVID-19 cases in March 2020 results in a 1.2 percentage point increase in the probability of staying  home on a given day through at least the end of May 2020.  As the pandemic progresses---and the characteristics of individuals with the highest friend-exposure vary---changes in friend-exposure continue to drive changes in social distancing behavior, ruling out many unobserved effects as drivers of our results. We also show that individuals with higher friend-exposure to COVID-19 are more likely to publicly post in support of social distancing measures and less likely to be members of groups advocating to "reopen" the economy. These findings suggest that friends can influence individuals' beliefs about the risks of the disease and thereby induce them to engage in mitigating public health behavior."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -36,6 +36,8 @@ featured: false
 links:
 - name: Full Paper
   url: http://pages.stern.nyu.edu/~jstroebe/PDF/BJKKRS_FB_Covid_Distancing.pdf
+- name: NBER Digest
+  url: https://www.nber.org/digest-2021-02
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
