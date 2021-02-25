@@ -1,5 +1,5 @@
 ---
-title: "The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook"
+title: "JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook"
 authors:
 - Theresa Kuchler
 - admin
