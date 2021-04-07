@@ -21,9 +21,8 @@ organizations:
 bio:
 
 interests:
-- Public Economics
 - Household Finance
-- Fairness in Machine Learning
+- Public Economics
 
 education:
   courses:
