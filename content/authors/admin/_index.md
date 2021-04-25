@@ -38,12 +38,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/domrussel
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dominic-russel/
-- icon: envelope
-  icon_pack: fas
-  link: mailto:domrussel@gmail.com
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/dominic-russel/
+# - icon: envelope
+#   icon_pack: fas
+#  link: mailto:domrussel@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/domrussel
