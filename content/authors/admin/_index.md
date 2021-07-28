@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: New York University, Stern School of Business
+- name: Harvard University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,7 @@ bio:
 interests:
 - Household Finance
 - Public Economics
+- Social Networks
 
 education:
   courses:
@@ -66,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Junior Research Scientist at the New York University Stern School of Business and a contractor with the Core Data Science team at Facebook. My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in household finance, public economics, and the economic effects of social networks. I also enjoy data visualization and have a few projects posted below.
+I'm a PhD student at Harvard University studying Business Economics, a joint degree that combines the Economics Department's PhD program with support from the Business School. I have also worked as a financial analyst at the Consumer Financial Protection Bureau, as a research assistant at NYU Stern, and as a contractor with the Core Data Science team at Facebook. My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in finance, public economics, and the economic effects of social networks. I also enjoy data visualization and have a few projects posted below.
