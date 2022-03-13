@@ -4,7 +4,7 @@ authors:
 - Theresa Kuchler
 - admin
 - Johannes Stroebel
-date: "2021-01-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 
@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: Full Paper
-  url: https://arxiv.org/pdf/2004.03055.pdf
+  url: https://dominic-russel.netlify.app/files/KRS_covid_sci.pdf
 - name: DSCC-19 Presentation Video
   url: https://www.youtube.com/watch?v=-jLonhO89Xs&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=4&t=1s
 - name: Code
