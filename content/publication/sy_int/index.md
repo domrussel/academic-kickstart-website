@@ -36,6 +36,11 @@ featured: false
 links:
 - name: Full Paper
   url: https://dominic-russel.netlify.app/files/Integration_of_Syrian_Migrants_in_Germany.pdf
+- name: Summary (English)
+  url: https://dominic-russel.netlify.app/files/english_summary.pdf
+- name: Summary (German)
+  url: https://dominic-russel.netlify.app/files/german_summary.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

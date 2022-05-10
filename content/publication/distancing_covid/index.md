@@ -7,7 +7,7 @@ authors:
 - Theresa Kuchler
 - admin
 - Johannes Stroebel
-date: "2020-12-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 
@@ -21,7 +21,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*NBER* Working Paper No. 28234"
+publication: ""
 publication_short: ""
 
 abstract: "We show that social network exposure to COVID-19 cases shapes individuals' beliefs and behaviors concerning the coronavirus. We use de-identified data from Facebook to document that individuals with friends in areas with worse COVID-19 outbreaks reduce their mobility more than otherwise similar individuals with friends in less affected areas. The effects are quantitatively large and long-lasting: a one standard deviation increase in friend-exposure to COVID-19 cases in March 2020 results in a 1.2 percentage point increase in the probability of staying  home on a given day through at least the end of May 2020.  As the pandemic progresses---and the characteristics of individuals with the highest friend-exposure vary---changes in friend-exposure continue to drive changes in social distancing behavior, ruling out many unobserved effects as drivers of our results. We also show that individuals with higher friend-exposure to COVID-19 are more likely to publicly post in support of social distancing measures and less likely to be members of groups advocating to 'reopen' the economy. These findings suggest that friends can influence individuals' beliefs about the risks of the disease and thereby induce them to engage in mitigating public health behavior."
@@ -38,6 +38,8 @@ links:
   url: http://pages.stern.nyu.edu/~jstroebe/PDF/BJKKRS_FB_Covid_Distancing.pdf
 - name: NBER Digest
   url: https://www.nber.org/digest-2021-02
+- name: Slides
+  url: https://dominic-russel.netlify.app/files/BJKKRS_covid_slides.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
