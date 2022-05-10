@@ -69,4 +69,4 @@ user_groups:
 
 I'm a PhD student at Harvard University studying Business Economics, a joint degree that combines the Economics Department's PhD program with support from the Business School. I have also worked as a financial analyst at the Consumer Financial Protection Bureau, a research assistant at NYU Stern, and a contractor with the Core Data Science team at Facebook.
 
-My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in finance, public economics, and the economic effects of social networks. I also enjoy data visualization and have a few projects posted below.
+My research interests lie in using big data to better understand market and societal outcomes, and identify challenges in terms of opportunity and equity. This includes interests in financial economics, public economics, and the economic effects of social networks. I also enjoy data visualization and have a few projects posted below.
