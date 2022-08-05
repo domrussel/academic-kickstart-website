@@ -1,9 +1,7 @@
 ---
 title: "Servicer Size in the Mortgage Market"
 authors:
-- Tim Critchfield
-- Erik Durbin
-- admin
+- (with Tim Critchfield and Erik Durbin)
 date: "2019-11-21T00:00:00Z"
 doi: ""
 

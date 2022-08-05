@@ -1,7 +1,6 @@
 ---
 title: "Say the G-Word: Gentrification in metro Detroit is real"
 authors:
-- admin
 date: "2015-09-24T00:00:00Z"
 doi: ""
 

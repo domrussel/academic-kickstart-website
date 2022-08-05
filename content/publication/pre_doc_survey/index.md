@@ -1,9 +1,7 @@
 ---
 title: "Survey of Pre-Doctoral Research Experiences in Economics"
 authors:
-- Zong Huang
-- Pauline Liang
-- admin
+- (with Zong Huang and Pauline Liang)
 date: "2020-08-01T00:00:00Z"
 doi: ""
 

@@ -1,12 +1,7 @@
 ---
 title: "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany"
 authors:
-- Michael Bailey
-- Drew Johnston
-- Martin Koenen
-- Theresa Kuchler
-- admin
-- Johannes Stroebel
+- (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel)
 date: "2022-01-01T00:00:00Z"
 doi: ""
 

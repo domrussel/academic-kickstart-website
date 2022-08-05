@@ -1,8 +1,7 @@
 ---
 title: "We Analyzed the Comments on the Atrocious 'Dr. Jill Biden' Op-Ed: Men and women saw something very different"
 authors:
-- Anna Gifty Opoku-Agyeman
-- admin
+- (with Anna Gifty Opoku-Agyeman)
 date: "2020-12-18T00:00:00Z"
 doi: ""
 

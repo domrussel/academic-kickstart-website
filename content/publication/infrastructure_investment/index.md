@@ -1,9 +1,7 @@
 ---
 title: "Transformative Infrastructure Investment and American Competitiveness"
 authors:
-- Damon Silvers
-- Eric Harris Bernstein
-- admin
+- (with Damon Silvers and Eric Harris Bernstein)
 date: "2016-11-16T00:00:00Z"
 doi: ""
 

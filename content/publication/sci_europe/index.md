@@ -1,12 +1,7 @@
 ---
 title: "The Determinants of Social Connectedness in Europe"
 authors:
-- Michael Bailey
-- Drew Johnston
-- Theresa Kuchler
-- admin
-- Bogdan State
-- Johannes Stroebel
+- (with Michael Bailey, Drew Johnston, Theresa Kuchler, Bogdan State, and Johannes Stroebel)
 date: "2020-09-01T00:00:00Z"
 doi: ""
 

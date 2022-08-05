@@ -1,12 +1,7 @@
 ---
 title: "Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing During the COVID-19 Pandemic"
 authors:
-- Michael Bailey
-- Drew Johnston
-- Martin Koenen
-- Theresa Kuchler
-- admin
-- Johannes Stroebel
+- (with Michael Bailey, Drew Johnston, Martin Koenen, Theresa Kuchler, and Johannes Stroebel)
 date: "2022-12-01T00:00:00Z"
 doi: ""
 
