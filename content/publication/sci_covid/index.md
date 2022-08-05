@@ -1,8 +1,7 @@
 ---
 title: "JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook"
 authors:
-- Theresa Kuchler
-- Johannes Stroebel
+- (with Theresa Kuchler and Johannes Stroebel)
 date: "2022-01-01T00:00:00Z"
 doi: ""
 
