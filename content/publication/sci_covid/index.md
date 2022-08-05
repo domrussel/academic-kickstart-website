@@ -1,6 +1,9 @@
 ---
 title: "JUE Insight: The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook"
 authors:
+- Theresa Kuchler
+- admin
+- Johannes Stroebel
 date: "2022-01-01T00:00:00Z"
 doi: ""
 
@@ -21,7 +24,7 @@ publication_short: ""
 abstract: "We use aggregated data from Facebook to show that COVID-19 was more likely to spread between regions with stronger social network connections. Areas with more social ties to two early COVID-19 “hotspots” (Westchester County, NY, in the U.S. and Lodi province in Italy) generally had more confirmed COVID-19 cases as of the end of March. These relationships hold after controlling for geographic distance to the hotspots as well as for the income and population densities of the regions. As the pandemic progressed in the U.S., a county’s social proximity to recent COVID19 cases predicts future outbreaks over and above physical proximity. These results suggest data from online social networks can be useful to epidemiologists and others hoping to forecast the spread of communicable diseases such as COVID-19."
 
 # Summary. An optional shortened abstract.
-summary: (with Theresa Kuchler and Johannes Stroebel)
+summary:
 
 tags:
 - Source Themes
