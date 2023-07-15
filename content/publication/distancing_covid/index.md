@@ -33,8 +33,6 @@ links:
   url: http://pages.stern.nyu.edu/~jstroebe/PDF/BJKKRS_FB_Covid_Distancing.pdf
 - name: NBER Digest
   url: https://www.nber.org/digest-2021-02
-- name: Slides
-  url: https://dominic-russel.netlify.app/files/BJKKRS_covid_slides.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
